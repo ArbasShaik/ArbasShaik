@@ -1,4 +1,4 @@
-! [logo] ('https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png')
+![logo]('[https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png](https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png?raw=true)')
 <h3 align="center">A passionate Data Scientist Student exploring vast realms and technology</h3>
 
 - 🔭 I’m currently working on **Anime Quote Generator**
