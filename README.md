@@ -1,13 +1,11 @@
 ![logo](https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png)
 <h3 align="center">A passionate Data Scientist Student exploring vast realms and technology</h3>
 
-- 🔭 I’m currently working on **Anime Quote Generator**
-
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Open Source Anime Web Projects**
+- 👯 I’m looking to collaborate on **Open Source Web Projects**
 
-- 🤝 I’m looking for help with **Java Script**
+- 🤝 I’m looking for help with **learning Java Script **
 
 - 📫 How to reach me **arbashussain69@gmail.com**
   <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding.gif" >
