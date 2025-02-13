@@ -1,5 +1,5 @@
 ![logo](https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png)
-<h3 align="center">A passionate Data Scientist Student exploring vast realms of technology</h3>
+<h3 align="center">A passionate Data Science Student exploring vast realms of technology</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
