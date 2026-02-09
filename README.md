@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently exploring **deployment side**
 
-- 👯 I’m looking to collaborate on **cloud learning and improving **
+- 👯 I’m looking to collaborate on **cloud learning and improving**
 
 - 🤝 I’m looking for help with **guidance**
 
