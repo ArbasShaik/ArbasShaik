@@ -1,4 +1,4 @@
-![logo](https://github.com/Arbas69/Arbas69/blob/main/gitbanner.png)
+![logo](https://github.com/ArbasShaik/ArbasShaik/blob/main/gitbanner.png)
 <h3 align="center">A passionate Data Science Student exploring vast realms of technology</h3>
 
 - 🌱 I’m currently exploring **deployment side**
